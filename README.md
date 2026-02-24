@@ -18,15 +18,15 @@ The dashboard analyzes:
 
 o Cabin Staff Service
 
-○ Seat Comfort
+o Seat Comfort
 
-○ Food & Beverages
+o Food & Beverages
 
-○ Entertainment
+o Entertainment
 
-○ Ground Service
+o Ground Service
 
-○ Value for Money
+o Value for Money
 
 • Performance by cabin class, traveler type, aircraft, continent, and year
 
