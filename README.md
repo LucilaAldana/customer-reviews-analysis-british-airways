@@ -16,17 +16,17 @@ The dashboard analyzes:
 
 • Satisfaction by service dimension:
 
-    ○ Cabin Staff Service
+○ Cabin Staff Service
 
-    ○ Seat Comfort
+○ Seat Comfort
 
-    ○ Food & Beverages
+○ Food & Beverages
 
-    ○ Entertainment
+○ Entertainment
 
-    ○ Ground Service
+○ Ground Service
 
-    ○ Value for Money
+○ Value for Money
 
 • Performance by cabin class, traveler type, aircraft, continent, and year
 
