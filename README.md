@@ -16,7 +16,7 @@ The dashboard analyzes:
 
 • Satisfaction by service dimension:
 
-○ Cabin Staff Service
+o Cabin Staff Service
 
 ○ Seat Comfort
 
