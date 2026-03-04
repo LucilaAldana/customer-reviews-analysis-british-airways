@@ -4,6 +4,8 @@
 
 ## by Lucila Aldana Quiñonez | Marketing Data Analyst
 
+📄 Report available in: English - Spanish
+
 This project develops an interactive Tableau dashboard combined with Python-based sentiment and keyword analysis to evaluate customer reviews for British Airways between 2016 and 2023.
 
 The objective was to identify the key drivers of customer recommendation, understand value-for-money perception, and detect service quality gaps across cabin class, traveler type, route, and region.
