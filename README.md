@@ -56,4 +56,4 @@ Data limitations such as uneven yearly review volume and absence of reliable uni
 
 This analysis simulates a real-world airline customer experience evaluation scenario where quantitative KPIs and qualitative feedback are combined to guide service investment priorities and brand positioning decisions.
 
-Tools Used: Tableau / Python / Sentiment Analysis (NLP) / Keyword Extraction / Data Visualization / Customer Experience Analytics
+Tools Used: Tableau / Python / Generative AI / Sentiment Analysis (NLP) / Keyword Extraction / Data Visualization / Customer Experience Analytics
